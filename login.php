@@ -50,7 +50,7 @@
                   </div>
                   <!-- judul -->
                   <div class="text-center pb-4">
-                    <h1 class="h5 text-gray-900">Aplikasi Kasir</h1>
+                    <h1 class="h5 text-gray-900">Steam SR</h1>
                     <h1 class="h5 text-gray-900 mb-4">Jasa Cuci Mobil dan Motor</h1>
                   </div>
 
@@ -118,7 +118,7 @@
 
                   <!-- footer -->
                   <div class="text-center pt-5">
-                    <span>Copyright &copy; 2021 - <a href="https://pustakakoding.com/" class="text-brand">Pustaka Koding</a></span>
+                    <span>Copyright &copy; 2024 - <a class="text-brand">Steam SR</a></span>
                   </div>
                 </div>
               </div>

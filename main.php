@@ -131,7 +131,7 @@ else { ?>
         <footer class="sticky-footer bg-white">
           <div class="container my-auto">
             <div class="copyright text-center my-auto">
-              <span>Copyright &copy; 2021 - <a href="https://pustakakoding.com/" class="text-brand">Pustaka Koding</a>. All rights reserved.</span>
+            <span>Copyright &copy; 2024 - <a class="text-brand">Steam SR</a></span>
             </div>
           </div>
         </footer>
