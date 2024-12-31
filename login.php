@@ -1,14 +1,3 @@
-<!-- Aplikasi Kasir Jasa Cuci Mobil dan Motor
-***********************************************
-* Developer   : Indra Styawantoro
-* Company     : Pustaka Koding
-* Release     : Juli 2021
-* Update      : -
-* Website     : pustakakoding.com
-* E-mail      : pustaka.koding@gmail.com
-* WhatsApp    : +62-813-7778-3334
--->
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -20,7 +9,7 @@
   <meta name="author" content="Indra Styawantoro">
 
   <!-- Title -->
-  <title>Aplikasi Kasir Jasa Cuci Mobil dan Motor</title>
+  <title>Manajemen Transaksi Cuci Mobil dan Motor</title>
 
   <!-- Favicon icon -->
   <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
@@ -50,7 +39,7 @@
                   </div>
                   <!-- judul -->
                   <div class="text-center pb-4">
-                    <h1 class="h5 text-gray-900">Steam SR</h1>
+                    <h1 class="h5 text-gray-900">Aplikasi Kasir</h1>
                     <h1 class="h5 text-gray-900 mb-4">Jasa Cuci Mobil dan Motor</h1>
                   </div>
 

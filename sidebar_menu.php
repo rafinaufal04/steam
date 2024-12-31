@@ -125,8 +125,6 @@ else {
           <span>Manajemen User</span>
         </a>
       </li>
-
-      <hr class="sidebar-divider">
     <?php
     }
     // jika tidak dipilih, menu manajemen user tidak aktif
@@ -141,31 +139,6 @@ else {
       </li>
 
       <hr class="sidebar-divider">
-    <?php
-    }
-
-    // jika menu tentang aplikasi dipilih, menu tentang aplikasi aktif
-    if ($_GET['module'] == 'tentang') { ?>
-      <div class="sidebar-heading">Bantuan</div>
-
-      <li class="nav-item active">
-        <a class="nav-link" href="?module=tentang">
-          <i class="fas fa-fw fa-info-circle"></i>
-          <span>Tentang Aplikasi</span>
-        </a>
-      </li>
-    <?php
-    }
-    // jika tidak dipilih, menu tentang aplikasi tidak aktif
-    else { ?>
-      <div class="sidebar-heading">Bantuan</div>
-
-      <li class="nav-item">
-        <a class="nav-link" href="?module=tentang">
-          <i class="fas fa-fw fa-info-circle"></i>
-          <span>Tentang Aplikasi</span>
-        </a>
-      </li>
     <?php
     }
   }
@@ -271,34 +244,7 @@ else {
           <span>Laporan</span>
         </a>
       </li>
-
-      <hr class="sidebar-divider">
     <?php
-    }
-
-    // jika menu tentang aplikasi dipilih, menu tentang aplikasi aktif
-    if ($_GET['module'] == 'tentang') { ?>
-      <div class="sidebar-heading">Bantuan</div>
-
-      <li class="nav-item active">
-        <a class="nav-link" href="?module=tentang">
-          <i class="fas fa-fw fa-info-circle"></i>
-          <span>Tentang Aplikasi</span>
-        </a>
-      </li>
-    <?php
-    }
-    // jika tidak dipilih, menu tentang aplikasi tidak aktif
-    else { ?>
-      <div class="sidebar-heading">Bantuan</div>
-
-      <li class="nav-item">
-        <a class="nav-link" href="?module=tentang">
-          <i class="fas fa-fw fa-info-circle"></i>
-          <span>Tentang Aplikasi</span>
-        </a>
-      </li>
-<?php
     }
   }
 }
